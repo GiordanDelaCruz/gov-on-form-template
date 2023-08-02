@@ -1,0 +1,62 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin:0;
+}
+
+.container{
+  
+}
+
+.ontario-logo{
+    height: 7rem;
+}
+
+.form-box{
+    margin:3rem 0 0;
+}
+
+.form-title{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600;
+    margin: 0 0 3rem;
+    text-align: center;
+}
+
+.submit-btn{
+    background-color: #9DF6D3;
+}
+
+.submit-btn:hover{
+    background-color: #7BCCAC;
+}
+
+/* Test Container */
+.test-container{
+    display: flex;
+    justify-content: center;
+}
+
+.footer-link{
+    color: white;
+}
+
+.footer-link:hover{
+    color:white;
+    text-decoration: none;
+}
+
+.footer-link:visited{
+    color: white;
+}
+
+.copyright:hover{
+    text-decoration: none;
+}
+
+.items{
+
+}
+
+.ga-form-group{
+
+}
